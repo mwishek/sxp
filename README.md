@@ -19,10 +19,10 @@ For more information see /sxp/doc/README.txt
 This will supply more information about the project and its 
 organization. 
 
-SXP Designers: 
-Sam Gladstone 
-Bob Hoffman 
-Nate Gregoire
+SXP Designers:  
+Sam Gladstone  
+Bob Hoffman  
+Nate Gregoire  
 
 ## Features
 
