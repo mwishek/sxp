@@ -7,15 +7,17 @@ Forked from Opencores.org SXP repository.
 32 bit pipelined processor. 
 Instruction set is non conventional in that it does not use a conventional decoder for instructions. The instruction set is made by collecting together "atomic" control signals together to form the instruction. This was done to eliminate the need for the decoder and save an extra pipeline stage. As a consequence latency is reduced and recovery from pipeline flushes do not degrade performance as badly. 
 
+![SXP Block Diagram](doc/sxp_block.gif)  
+
 The design goals for the processor were speed, small size and flexibility. 
 An extensible bus architecture is supported so that extra functions and bus architectures could be tightly coupled to the processor. This would support such functions as adding DSP instructions,multiple processor and network processing to the processor. 
 
-Please refer to /sxp/doc/instr.txt 
+Please refer to [/sxp/doc/instr.txt](doc/instr.txt)  
 for more information about the instruction set. 
 
 (The SXP processor was built from scratch using the GPL'ed Verilog simulator Icarus. The instruction set cannot be copyrighted and the architecture has been taught in computer architecture classes for more than 20 years. I feel that this core is pretty safe from copyright and IP patent concerns.) 
 
-For more information see /sxp/doc/README.txt 
+For more information see [/sxp/doc/README.txt](doc/README.txt)   
 This will supply more information about the project and its 
 organization. 
 
