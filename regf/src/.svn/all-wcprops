@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/regf/src
+END
+sync_regf.v
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/regf/src/sync_regf.v
+END
+mem_regf.v
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/regf/src/mem_regf.v
+END
+regf_status.v
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/regf/src/regf_status.v
+END

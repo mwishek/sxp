@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/alu/sim
+END
+test_alu.v
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/alu/sim/test_alu.v
+END
+i_runsim
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/alu/sim/i_runsim
+END

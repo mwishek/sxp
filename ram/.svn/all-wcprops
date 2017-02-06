@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/ram
+END
+generic_spram.v
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/ram/generic_spram.v
+END
+generic_dpram.v
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/ram/generic_dpram.v
+END
+generic_tpram.v
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/ram/generic_tpram.v
+END

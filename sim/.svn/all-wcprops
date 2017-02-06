@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/sim
+END
+test.sxp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/sim/test.sxp
+END
+test_exp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/sim/test_exp.txt
+END
+i_runtest
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/sim/i_runtest
+END
+test_sxp.v
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ocsvn/sxp/!svn/ver/59/sxp/trunk/sim/test_sxp.v
+END
